@@ -44,7 +44,7 @@ The system operates in a closed-loop process and is fully automated:
 4. When a Region experiences a problem, the "Health Check" system detects it and immediately orders that Region to be isolated.
 5. Traffic is smoothly and automatically redirected to a safe backup Region.
 
-![Hình ảnh minh họa](/images/1.jpg)
-![Hình ảnh minh họa](/images/2.jpg)
+![Illustration](/images/1.jpg)
+![Illustration](/images/2.jpg)
 
 Link to the original article: https://aws.amazon.com/vi/blogs/networking-and-content-delivery/maximising-application-resiliency-with-aws-global-accelerator/?content_source=fb&fb_content_id=Q9-wBQFdqBQ2SBnCPxy6A0UN5A51W2ePxGx8rDCk2KPqZwkXKhi67tpncnus-xObJQ&channel_type=fb&fbclid=IwY2xjawSrSFZleHRuA2FlbQIxMABicmlkETFFWXFVbkdQZTh3RGhDSFVMc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoi4NP_4y3nSsY2mkdcr8mqDzbJXEJuYTDD6qfaaVhjetmQAjSNRpd1x25I-_aem_d3GeCL--cqIUwpbAwS3pEw

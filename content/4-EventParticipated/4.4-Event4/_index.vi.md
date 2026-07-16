@@ -117,5 +117,5 @@ Tham gia workshop **“FCAJ Community Day”** là một trải nghiệm rất b
 - **Tiêu chuẩn hệ thống doanh nghiệp**: Một hệ thống tốt không chỉ dừng lại ở việc "chạy được", mà bắt buộc phải đảm bảo 3 yếu tố: An toàn (Securely), Đáng tin cậy (Reliably) và Tối ưu chi phí (Cost-effective).
 - **Dũng cảm xoay chuyển ý tưởng (Pivot)**: Khi đối mặt với áp lực deadline hoặc bế tắc kỹ thuật, cần quyết đoán cắt tỉa tính năng hoặc thay đổi giải pháp để đảm bảo bàn giao sản phẩm cốt lõi (MVP) đúng hạn.
 #### Một số hình ảnh khi tham gia sự kiện
-![Hình ảnh tại Event 3](/images/event3.jpg)
+![Hình ảnh tại Event 3](/images/event4.jpg)
 > Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.

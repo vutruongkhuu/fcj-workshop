@@ -9,8 +9,8 @@ pre: " <b> 4.3. </b> "
 
 | Info | Details |
 |---|---|
-| Date | 27/06/2026 |
-| Location | Floor 36, Bitexco Financial Tower, Sài Gòn Ward, Ho Chi Minh City |
+| Date | 10/06/2026 |
+| Location | Floor 26, Bitexco Financial Tower, Sài Gòn Ward, Ho Chi Minh City |
 | Role | Attendee |
 
 ### Event Purpose

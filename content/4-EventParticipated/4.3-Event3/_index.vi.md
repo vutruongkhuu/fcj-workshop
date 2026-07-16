@@ -10,7 +10,7 @@ pre: " <b> 4.3. </b> "
 | Thông tin | Chi tiết |
 |---|---|
 | Ngày | 10/06/2026 |
-| Địa điểm | Tầng 36, Tòa nhà Bitexco Financial Tower, Phường Sài Gòn, TP.Hồ Chí Minh |
+| Địa điểm | Tầng 26, Tòa nhà Bitexco Financial Tower, Phường Sài Gòn, TP.Hồ Chí Minh |
 | Vai trò | Người tham dự |
 
 ### Mục Đích Của Sự Kiện

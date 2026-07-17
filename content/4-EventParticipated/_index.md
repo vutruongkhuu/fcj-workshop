@@ -11,7 +11,7 @@ During my internship, I participated in four events. Each one was a memorable ex
 ### [Event 1](4.1-Event1/)  
 &emsp;**Event Name:** Prompt Engineering, AI Mindmap & BMAD Methodl
 
-&emsp;**Date & Time:** 09:00, May 09, 2025  
+&emsp;**Date & Time:** 09:00, May 09, 2026  
 
 &emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
 
@@ -22,7 +22,7 @@ During my internship, I participated in four events. Each one was a memorable ex
 ### [Event 2](4.2-Event2/)  
 &emsp;**Event Name:** Conference Call
 
-&emsp;**Date & Time:** 09:00, May 23, 2025  
+&emsp;**Date & Time:** 09:00, May 23, 2026  
 
 &emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
 
